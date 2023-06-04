@@ -2,3 +2,10 @@ this is a test
 
 --
 prova per FeatureA
+
+
+Lista di variabili:
+a
+b
+c
+
